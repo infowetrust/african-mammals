@@ -1,6 +1,6 @@
 # african-mammals
 Silhouettes of hundreds of African mammals.
-From aardvark to zorilla, the PNG silhouettes represent the ~223 largest African mammals.
+From aardvark to zorilla, these PNG silhouettes represent the ~223 largest African mammals.
 
 These PNGs were originally created for the ENDANGERED SAFARI project, which you may enjoy here: http://www.infowetrust.com/endangeredsafari/
 The silhouettes were based mostly on illustrations obtained from MAMMAL’S PLANET, a database of animal illustrations: http://www.planet-mammiferes.org/ 
